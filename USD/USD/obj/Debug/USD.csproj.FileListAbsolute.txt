@@ -1,0 +1,39 @@
+C:\Users\Marco\source\repos\USD\USD\bin\Debug\USD.exe.config
+C:\Users\Marco\source\repos\USD\USD\bin\Debug\USD.exe
+C:\Users\Marco\source\repos\USD\USD\bin\Debug\USD.pdb
+C:\Users\Marco\source\repos\USD\USD\obj\Debug\USD.csprojResolveAssemblyReference.cache
+C:\Users\Marco\source\repos\USD\USD\obj\Debug\USD.Properties.Resources.resources
+C:\Users\Marco\source\repos\USD\USD\obj\Debug\USD.csproj.GenerateResource.Cache
+C:\Users\Marco\source\repos\USD\USD\obj\Debug\USD.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\USD\USD\obj\Debug\USD.exe
+C:\Users\Marco\source\repos\USD\USD\obj\Debug\USD.pdb
+C:\Users\Marco\source\repos\USD\USD\obj\Debug\USD.usd_form.resources
+C:\Users\Joiny\Documents\Visual Studio 2017\Projects\USD\USD\bin\Debug\USD.exe.config
+C:\Users\Joiny\Documents\Visual Studio 2017\Projects\USD\USD\bin\Debug\USD.exe
+C:\Users\Joiny\Documents\Visual Studio 2017\Projects\USD\USD\bin\Debug\USD.pdb
+C:\Users\Joiny\Documents\Visual Studio 2017\Projects\USD\USD\obj\Debug\USD.csprojAssemblyReference.cache
+C:\Users\Joiny\Documents\Visual Studio 2017\Projects\USD\USD\obj\Debug\USD.usd_form.resources
+C:\Users\Joiny\Documents\Visual Studio 2017\Projects\USD\USD\obj\Debug\USD.Properties.Resources.resources
+C:\Users\Joiny\Documents\Visual Studio 2017\Projects\USD\USD\obj\Debug\USD.csproj.GenerateResource.cache
+C:\Users\Joiny\Documents\Visual Studio 2017\Projects\USD\USD\obj\Debug\USD.csproj.CoreCompileInputs.cache
+C:\Users\Joiny\Documents\Visual Studio 2017\Projects\USD\USD\obj\Debug\USD.exe
+C:\Users\Joiny\Documents\Visual Studio 2017\Projects\USD\USD\obj\Debug\USD.pdb
+C:\Users\Arnold\Desktop\USD\USD\bin\Debug\USD.exe.config
+C:\Users\Arnold\Desktop\USD\USD\bin\Debug\USD.exe
+C:\Users\Arnold\Desktop\USD\USD\bin\Debug\USD.pdb
+C:\Users\Arnold\Desktop\USD\USD\obj\Debug\USD.csprojResolveAssemblyReference.cache
+C:\Users\Arnold\Desktop\USD\USD\obj\Debug\USD.usd_form.resources
+C:\Users\Arnold\Desktop\USD\USD\obj\Debug\USD.Properties.Resources.resources
+C:\Users\Arnold\Desktop\USD\USD\obj\Debug\USD.csproj.GenerateResource.cache
+C:\Users\Arnold\Desktop\USD\USD\obj\Debug\USD.csproj.CoreCompileInputs.cache
+C:\Users\Arnold\Desktop\USD\USD\obj\Debug\USD.exe
+C:\Users\Arnold\Desktop\USD\USD\obj\Debug\USD.pdb
+C:\Users\Joiny\Desktop\Marco\USD\USD\bin\Debug\USD.exe.config
+C:\Users\Joiny\Desktop\Marco\USD\USD\bin\Debug\USD.exe
+C:\Users\Joiny\Desktop\Marco\USD\USD\bin\Debug\USD.pdb
+C:\Users\Joiny\Desktop\Marco\USD\USD\obj\Debug\USD.usd_form.resources
+C:\Users\Joiny\Desktop\Marco\USD\USD\obj\Debug\USD.Properties.Resources.resources
+C:\Users\Joiny\Desktop\Marco\USD\USD\obj\Debug\USD.csproj.GenerateResource.cache
+C:\Users\Joiny\Desktop\Marco\USD\USD\obj\Debug\USD.csproj.CoreCompileInputs.cache
+C:\Users\Joiny\Desktop\Marco\USD\USD\obj\Debug\USD.exe
+C:\Users\Joiny\Desktop\Marco\USD\USD\obj\Debug\USD.pdb

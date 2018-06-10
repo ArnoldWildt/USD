@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "A:\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                "${workspaceRoot}",
+                "A:\\Arduino\\hardware\\tools",
+                "A:\\Arduino\\libraries",
+                "A:\\Arduino",
+                "C:\\Users\\Joiny\\Documents\\Arduino\\libraries"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "A:\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                    "${workspaceRoot}",
+                    "A:\\Arduino\\hardware\\tools",
+                    "A:\\Arduino",
+                    "A:\\Arduino\\libraries",
+                    "C:\\Users\\Joiny\\Documents\\Arduino\\libraries"
+                ]
+            },
+            "intelliSenseMode": "msvc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
