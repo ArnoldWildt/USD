@@ -457,6 +457,7 @@ namespace USD
 
             if (!SP.IsOpen)
             {
+                error = false;
                 stop_state();
                 
                 MessageBox.Show("Verbindung zu dem Arduino verloren", "Verbindungsfehler", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -465,6 +466,7 @@ namespace USD
 
             if (error)
             {
+                error = false;
                 stop_state();
                 return;
             }
