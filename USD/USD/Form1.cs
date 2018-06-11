@@ -150,6 +150,11 @@ namespace USD
                 error = true;
                 MessageBox.Show("Arduino Fehler!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+            if (indata.Contains("Reset"))
+            {
+                error = true;
+                MessageBox.Show("Reset Knopf betätigt!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
 
         }
 

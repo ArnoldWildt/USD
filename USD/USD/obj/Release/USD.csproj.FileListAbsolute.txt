@@ -17,3 +17,13 @@ C:\Users\Joiny\Desktop\Marco\USD\USD\obj\Release\USD.csproj.GenerateResource.cac
 C:\Users\Joiny\Desktop\Marco\USD\USD\obj\Release\USD.csproj.CoreCompileInputs.cache
 C:\Users\Joiny\Desktop\Marco\USD\USD\obj\Release\USD.exe
 C:\Users\Joiny\Desktop\Marco\USD\USD\obj\Release\USD.pdb
+C:\Users\Joiny\Documents\GitHub\USD\USD\USD\bin\Release\USD.exe.config
+C:\Users\Joiny\Documents\GitHub\USD\USD\USD\bin\Release\USD.exe
+C:\Users\Joiny\Documents\GitHub\USD\USD\USD\bin\Release\USD.pdb
+C:\Users\Joiny\Documents\GitHub\USD\USD\USD\obj\Release\USD.csprojAssemblyReference.cache
+C:\Users\Joiny\Documents\GitHub\USD\USD\USD\obj\Release\USD.usd_form.resources
+C:\Users\Joiny\Documents\GitHub\USD\USD\USD\obj\Release\USD.Properties.Resources.resources
+C:\Users\Joiny\Documents\GitHub\USD\USD\USD\obj\Release\USD.csproj.GenerateResource.cache
+C:\Users\Joiny\Documents\GitHub\USD\USD\USD\obj\Release\USD.csproj.CoreCompileInputs.cache
+C:\Users\Joiny\Documents\GitHub\USD\USD\USD\obj\Release\USD.exe
+C:\Users\Joiny\Documents\GitHub\USD\USD\USD\obj\Release\USD.pdb

@@ -71,7 +71,7 @@ void work()  {
           break;
         }
 
-        if (!digitalRead(6)) {
+        if (!digitalRead(5)) {
           digitalWrite(13, LOW); // Rleais Aus!
           digitalWrite(12, LOW);
           digitalWrite(11, LOW);
@@ -80,8 +80,9 @@ void work()  {
           ontime.clear();
           offtime.clear();
           number.clear();
-          return;
           Serial.println("Reset button");
+          return;
+          
           
         }
 
